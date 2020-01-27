@@ -1,0 +1,21 @@
+
+
+Traditional database, Blockchain.
+
+Blockchain types: 
+publlic Blockchain.
+Private Blockchain.
+Hybird Blockchain.
+
+
+peer to peer network , client/server model network
+
+
+BIPs: Bitcoin improvements proposal
+
+Forks: 
+HardFork
+SoftFork
+SourceCodeFork
+
+
