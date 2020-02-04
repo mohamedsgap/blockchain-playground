@@ -15,7 +15,6 @@ export default function addLevelDBData(key,value){
   });
 }
 
-
 // Get data from levelDB with key
 export default function getLevelDBData(key){
   return new Promise(function(resolve, reject) {
