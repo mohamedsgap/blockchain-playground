@@ -60,3 +60,7 @@ transaction.sign(privateKeySenderHex)
 // -- Step 8: Send the serialized signed transaction to the Ethereum network.
 var serializedTransaction = transaction.serialize();
 web3.eth.sendSignedTransaction(serializedTransaction);
+
+
+web3.eth.getBalance(sender).then(console.log)
+web3.eth.getBalance(receiver).then(console.log)
